@@ -1,0 +1,75 @@
+.promo__container{
+    width: 100vw;
+    height: 500px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    /*background-color: cadetblue;*/
+
+    .promo__whats{
+        .promo__tempwhats{
+            width: 270px;
+            display: flex;
+            flex-direction: column;
+            border-radius: 5px;
+            margin-right: 35px;
+        }
+        .promo__btn__whats{
+            display: flex;
+            flex-direction: row;
+            align-items: center;
+            justify-content: center;
+            min-width: 270px;
+            min-height: 46px;
+            margin-top: 5px;
+            background: border-box;
+            background-color: #2a762d;
+            border-width: 3px;
+            border-radius: 5px;
+            border-style: solid;
+            border-color: transparent;
+            svg{
+                color: #ffffff;
+                font-size: 25px;
+                padding-left: 10px;
+            }
+            .promo__btn__whats__text{
+                color: #ffffff;
+                font-size: 20px;
+            }
+        }
+    }
+    .promo__insta{
+        .promo__tempinsta{
+            width: 270px;
+            display: flex;
+            flex-direction: column;
+            border-radius: 5px;
+            margin-right: 35px;
+        }
+        .promo__btn__insta{
+            display: flex;
+            flex-direction: row;
+            align-items: center;
+            justify-content: center;
+            min-width: 270px;
+            min-height: 46px;
+            margin-top: 5px;
+            background: border-box;
+            background-color: #2a762d;
+            border-width: 3px;
+            border-radius: 5px;
+            border-style: solid;
+            border-color: transparent;
+            svg{
+                color: #ffffff;
+                font-size: 25px;
+                padding-left: 10px;
+            }
+            .promo__btn__insta__text{
+                color: #ffffff;
+                font-size: 20px;
+            }
+        }
+    }
+}

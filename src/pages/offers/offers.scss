@@ -1,0 +1,55 @@
+.offers__container{
+    .offers__area{
+        width: 100vw;
+        height: 100vh;
+        .offers__sub{
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            margin-top: 100px;
+        }
+        .offers__offer{
+            display: flex;
+            flex-direction: row;
+            align-items: center;
+            justify-content: center;
+            img{
+                width: 300px;
+                margin-top: 100px;
+                margin-right: 180px;
+            }
+            .offers_whatsapp_text{
+                width: 270px;
+                font-family: Inter;
+                color: #000000;
+                font-size: 20px;
+                margin-bottom: 20px;
+            }
+            .offers__btn{
+                display: flex;
+                flex-direction: row;
+                align-items: center;
+                justify-content: center;
+                min-width: 270px;
+                min-height: 46px;
+                margin-top: 5px;
+                background: border-box;
+                background-color: #2a762d;
+                border-width: 3px;
+                border-radius: 5px;
+                border-style: solid;
+                border-color: transparent;
+                svg{
+                    color: #ffffff;
+                    font-size: 25px;
+                    padding-left: 10px;
+                }
+                .promo__btn__text{
+                    color: #ffffff;
+                    font-size: 20px;
+                }
+            }
+            
+        }
+    }
+}

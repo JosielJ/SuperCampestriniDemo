@@ -1,0 +1,21 @@
+.jobs__container{
+    .jobs__form{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        h1{
+            font-family: Inter;
+            font-size: 30px;
+            margin-top: 80px;
+            margin-bottom: 20px;
+        }
+        .jobs__form__fields{
+            width: 600px;
+            height: 1000px;
+            border-radius: 10px;
+            background-color: #4d7536;
+            margin-bottom: 70px;
+        }
+    }
+}

@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/static/css/main.c9a256bb.css",
+    "main.js": "/static/js/main.7f2af247.js",
+    "static/media/Tempblumenau.png": "/static/media/Tempblumenau.3ea4deae7851014e5f2b.png",
+    "static/media/Tempinsta.png": "/static/media/Tempinsta.07cab68c29a5decd270f.png",
+    "static/media/Temptimbo.png": "/static/media/Temptimbo.ca1e16ee411c5e480713.png",
+    "static/media/Tempbarravelha.png": "/static/media/Tempbarravelha.a02879a7d8213a831e47.png",
+    "static/media/Tempwhats.png": "/static/media/Tempwhats.4e86f3d421a036405dc7.png",
+    "static/media/Tempbanner.png": "/static/media/Tempbanner.a5ccfb39ef9ded660444.png",
+    "static/media/Templogo.png": "/static/media/Templogo.c4908ea9047e93616903.png",
+    "static/media/Temppromo.png": "/static/media/Temppromo.802499f411a7e29f4d61.png",
+    "index.html": "/index.html",
+    "main.c9a256bb.css.map": "/static/css/main.c9a256bb.css.map",
+    "main.7f2af247.js.map": "/static/js/main.7f2af247.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c9a256bb.css",
+    "static/js/main.7f2af247.js"
+  ]
+}
